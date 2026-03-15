@@ -21,21 +21,20 @@ type Word = {
 };
 
 type Language = "it" | "en";
-type Category = "sostantivo" | "verbo" | "aggettivo" | "noun" | "verb" | "adjective" | "any";
+type Category = "noun" | "verb" | "adjective" | "any";
 
-const CATEGORIES_MAP = {
-  it: [
-    { value: "any", label: "Tutte le categorie" },
-    { value: "sostantivo", label: "Sostantivi" },
-    { value: "verbo", label: "Verbi" },
-    { value: "aggettivo", label: "Aggettivi" },
-  ],
-  en: [
-    { value: "any", label: "All Categories" },
-    { value: "noun", label: "Nouns" },
-    { value: "verb", label: "Verbs" },
-    { value: "adjective", label: "Adjectives" },
-  ],
+const CATEGORIES_OPTIONS = [
+  { value: "any", labels: { it: "Tutte le categorie", en: "All Categories" } },
+  { value: "noun", labels: { it: "Sostantivi", en: "Nouns" } },
+  { value: "verb", labels: { it: "Verbi", en: "Verbs" } },
+  { value: "adjective", labels: { it: "Aggettivi", en: "Adjectives" } },
+];
+
+const CATEGORY_LABELS: Record<string, Record<Language, string>> = {
+  noun: { it: "Sostantivi", en: "Nouns" },
+  verb: { it: "Verbi", en: "Verbs" },
+  adjective: { it: "Aggettivi", en: "Adjectives" },
+  any: { it: "Tutte le categorie", en: "All Categories" },
 };
 
 const TEXTS = {
@@ -55,20 +54,6 @@ const TEXTS = {
 
 const STORAGE_KEY = "impro-word-config";
 
-const CATEGORY_MAP_TO_EN: Record<string, Category> = {
-  "sostantivo": "noun",
-  "verbo": "verb",
-  "aggettivo": "adjective",
-  "any": "any"
-};
-
-const CATEGORY_MAP_TO_IT: Record<string, Category> = {
-  "noun": "sostantivo",
-  "verb": "verbo",
-  "adjective": "aggettivo",
-  "any": "any"
-};
-
 export default function WordGenerator() {
   const [isLoaded, setIsLoaded] = useState(false);
   const [lang, setLang] = useState<Language>("it");
@@ -84,7 +69,11 @@ export default function WordGenerator() {
       try {
         const { lang: sLang, category: sCat } = JSON.parse(saved);
         if (sLang) setLang(sLang);
-        if (sCat) setCategory(sCat);
+        if (sCat) {
+          // Fallback for legacy keys or invalid values
+          const validCategories: Category[] = ["noun", "verb", "adjective", "any"];
+          setCategory(validCategories.includes(sCat) ? sCat : "any");
+        }
       } catch (e) {
         console.error("Error loading config", e);
       }
@@ -139,16 +128,7 @@ export default function WordGenerator() {
           <select
             value={lang}
             onChange={(e) => {
-              const newLang = e.target.value as Language;
-              const oldLang = lang;
-              setLang(newLang);
-
-              // Maintain category across languages
-              if (oldLang === "it" && newLang === "en") {
-                setCategory(CATEGORY_MAP_TO_EN[category] || "any");
-              } else if (oldLang === "en" && newLang === "it") {
-                setCategory(CATEGORY_MAP_TO_IT[category] || "any");
-              }
+              setLang(e.target.value as Language);
             }}
             className="bg-transparent text-white text-sm font-medium outline-none cursor-pointer p-1"
           >
@@ -160,12 +140,14 @@ export default function WordGenerator() {
         <div className="flex-1">
           <Select value={category} onValueChange={(v) => setCategory(v as Category)}>
             <SelectTrigger className="bg-white/10 backdrop-blur-md border-white/20 text-white rounded-full">
-              <SelectValue placeholder={TEXTS[lang].category} />
+              <SelectValue>
+                {CATEGORIES_OPTIONS.find(opt => opt.value === category)?.labels[lang]}
+              </SelectValue>
             </SelectTrigger>
             <SelectContent>
-              {CATEGORIES_MAP[lang].map((cat) => (
-                <SelectItem key={cat.value} value={cat.value}>
-                  {cat.label}
+              {CATEGORIES_OPTIONS.map((opt) => (
+                <SelectItem key={opt.value} value={opt.value}>
+                  {opt.labels[lang]}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -194,7 +176,8 @@ export default function WordGenerator() {
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.2 }}
                 >
-                  {currentWord?.category}
+                  {currentWord ? CATEGORY_LABELS[currentWord.category]?.[lang] || currentWord.category : ""}
+
                 </motion.span>
                 <h2 className="text-5xl md:text-6xl font-bold text-white mb-2 drop-shadow-md">
                   {currentWord?.word}

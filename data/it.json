@@ -1,3986 +1,3986 @@
 [
   {
     "word": "camminare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "è",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sono",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ha",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "cantare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "volare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "saltare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ho",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "solo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "essere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "stato",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "piangere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "tutto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "cosa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "fatto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "lodare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "suo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "parte",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "anno",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "due",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "dipingere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fuggire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sognare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "viaggiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sorridere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "urlare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "giudicare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ogni",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "altro",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "ora",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "donare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "tempo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "vita",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ballare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "pregare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "secondo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "proprio",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "cucinare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "lavoro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "modo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "casa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "persona",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "lavare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "volta",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "dire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "giorno",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "mondo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "stesso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "via",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "grande",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "primo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "odiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "caso",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "pulire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "spingere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "città",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "nuovo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fine",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "qualche",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "quale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "stati",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "storia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tre",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "avere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "tirare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "foto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "salutare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "vedere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ringraziare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sapere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "pescare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "momento",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "dovere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "bruciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "tagliare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "tavolo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sembrare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "bussare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "passeggiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "vero",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "gridare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "gente",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "legge",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "finestra",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "posto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "alcuno",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "abbaiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "nome",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "miagolare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "stare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "andare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fissare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "punto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tappeto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tipo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "colorare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "stampare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "potere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "video",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "volere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "navigare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "numero",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "incollare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "spegnere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "certo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "gruppo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "dare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "società",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "uomo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "famiglia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "specchio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "paese",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "problema",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "accendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "credere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "governo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "esempio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "donna",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "italiano",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "possibile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "rispetto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sistema",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "girare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "bisogno",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "serie",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "saltellare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "nazionale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "generale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "guerra",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "piovere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "morte",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sito",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "base",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "film",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "politica",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "nevicare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fiorire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "comune",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "abitare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "centro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "dio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "brillare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "parlare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scuola",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tramontare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "buono",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "idea",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "mano",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "amico",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "causa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "corso",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "forza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "importante",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "mese",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "presidente",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "seguire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "senso",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "successo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "bastare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "diritto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "parola",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "scrivere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sbadigliare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "terra",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "padre",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "pensare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "piacere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "piano",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "porta",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "settimana",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "state",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "trovare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "venire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "vista",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "genere",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "leggere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "migliore",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "pubblico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "realtà",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "strada",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "livello",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "lungo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "mezzo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ragazzo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "bello",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "diverso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "particolare",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "pubblicare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ragione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "settembre",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "marzo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "notte",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "quattro",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "situazione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "attività",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "bambino",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "consiglio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "forma",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "libro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "qualsiasi",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "soldo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "campo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "faccia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "figlio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "prendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "progetto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "servizio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "testa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "accordo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "amore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "capo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "conto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "giusto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "madre",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "periodo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "studio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "trattare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "unico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "dato",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "gioco",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "grado",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "voce",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "forte",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "giro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "maggio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ricerca",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "uso",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "capire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "corpo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "luogo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cucire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "stirare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "partito",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "passare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ragazza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tv",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "truccare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "euro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "favore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "milione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "minuto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sicurezza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tuffare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "acqua",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "aprile",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cuore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "difficile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "domanda",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "giugno",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "occhio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "presente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "articolo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "chiesa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ex",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "informazione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "scivolare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "maggiore",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "media",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ottobre",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "prova",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sera",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sud",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "titolo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cinque",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "luglio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "musica",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "paura",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "regione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sociale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "inciampare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "galleggiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "inglese",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "mettere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "nord",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "post",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "questione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "re",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "termine",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "vicino",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "vivere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "suonare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "data",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "giornata",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "lingua",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "piccolo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "posizione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "possibilità",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "programma",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "zona",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "controllo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cultura",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "febbraio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "futuro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "pettinare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "mercato",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "asciugare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "polizia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "mordere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "alto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "cura",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "masticare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "dicembre",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "soffiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "novembre",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "parere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "personale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "pungere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scelta",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "semplice",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "sviluppo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ultimo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "agosto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "condizione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "graffiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fronte",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "luce",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "mare",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "motivo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "opera",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "scavare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sfilare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "rapporto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "resto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sicuro",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "vario",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "attenzione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "gennaio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "giovane",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "online",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "risposta",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ruolo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "guardare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "linea",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "mente",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "unito",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "classe",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "continuare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "esperienza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "squadra",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "voglia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "arte",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "auto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "piazza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "processo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "qualità",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "risultato",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "significare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "specie",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "aiuto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "bisognare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "colpa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "fischiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "effetto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "facile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "genitore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "internazionale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "produzione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "repubblica",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sinistra",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sperare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ufficiale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fondo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "libertà",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "massimo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "metà",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "passo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "popolo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tremare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ricordo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sede",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "servire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "spazio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "territorio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "valore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "verità",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "viaggio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cercare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "mamma",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "moglie",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "pace",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "papa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "politico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "presenza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "breve",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "civile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "lavorare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ministro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ordine",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "oro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "piede",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "rete",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "speciale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "calcio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "centrale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "codice",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "felice",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "pagina",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "provincia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "riguardare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sentire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sole",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "web",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cancellare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "internet",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "macchina",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "movimento",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "notizia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "perdere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "riguardo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "stile",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cittadino",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "età",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "inizio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "nota",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "occasione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "prezzo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "prodotto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sudare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scusa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "secolo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "stagione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "università",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cambiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "camera",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "corte",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "decidere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "destra",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "formazione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "locale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "mondiale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "necessario",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "popolazione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "portare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "reale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "sesso",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "bocciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "terzo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "testo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "totale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "versione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "chiaro",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "chiedere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "orologio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "diventare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "promuovere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fratello",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "fuoco",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "interesse",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "maniera",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "natura",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sanguinare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "partire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "guarire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "arrivare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "aspetto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "carta",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tossire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "comunità",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "danno",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "esistere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "festa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "francese",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "libero",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "principale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "relazione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "stampa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tornare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "usare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "messaggio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "mostra",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "prossimo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "scopo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "simile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "cibo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "starnutire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "figlia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "finale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "lato",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sangue",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tema",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "vecchio",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "voto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "basso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "contratto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "costare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "crisi",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "differenza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "entrare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fortuna",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "guida",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "immagine",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "incontro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "iniziare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "abbracciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "nero",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "ottenere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "pena",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "azione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "creare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "culo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "discorso",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "lista",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "morire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "pari",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "pensiero",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "proprietà",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "rischio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "russare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "solito",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "soluzione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "superiore",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "telefono",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "valere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "arma",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "atto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "autore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "campagna",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "colore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "commissione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "difesa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "diretto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "direttore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "evento",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "applaudire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "spazzare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "matrimonio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "morto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "porto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "pratica",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "qualunque",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "scena",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "storico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "vivo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "aria",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tritare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "capitale",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "mattina",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "militare",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "riuscire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "salute",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "settore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ufficio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "uscire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "chiamare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "difficoltà",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "lettera",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "mangiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "partita",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "pieno",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "precedente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "restare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "riferimento",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "signore",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "animale",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "azienda",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cielo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "conoscere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "mescolare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "finire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "lasciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "modello",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "nascere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ritorno",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "scoprire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "social",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "vittoria",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "bianco",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "canzone",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "compagnia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "dubbio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "evitare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "giustizia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "medico",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "merito",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "scrivania",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "noto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "radio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ricevere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scorso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "struttura",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "aperto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "capacità",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "comunicazione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "direzione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ministero",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "normale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "richiesta",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "rimanere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "confronto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "gay",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "premio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "rendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sacco",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sette",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "studente",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "addormentare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "attuale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "bocca",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "commento",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "contrario",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "costruzione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "documento",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "edizione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "elezione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "europeo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fase",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "giocare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "interessante",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "membro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "memoria",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "naturale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "origine",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "paio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "svegliare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "perfetto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "presa",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "friggere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "regno",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "rosso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "sezione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "tenere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "vincere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "accesso",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "analisi",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "conoscenza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "domenica",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "materiale",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "presentare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "pro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "proposta",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "provare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "responsabilità",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "ricordare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sport",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "succedere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "uscita",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "visita",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "infornare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "arrivo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "distanza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "lega",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "marito",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "obiettivo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "pagare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "palazzo",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "scegliere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "teatro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "abitante",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "area",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cambio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "capello",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "economia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "economico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "mancare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "metro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "misura",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "necessità",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "regola",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "santo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "utente",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "aiutare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "autorità",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "battaglia",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "canale",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "cane",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "culturale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "dollaro",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "est",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "importanza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "bollire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "odio",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "originale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "parlamento",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "peso",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "proposito",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "segno",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "speranza",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "sfornare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "contatto",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "costituzione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "elemento",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "festival",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "fonte",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "funzione",
-    "category": "sostantivo"
+    "category": "noun"
   },
   {
     "word": "impossibile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "assaggiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "medio",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "ottimo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "umano",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "considerare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "digerire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "apparecchiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "raggiungere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sparecchiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "utile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "amare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "spolverare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "funzionare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "pronto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "sbagliare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "seguente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "lucidare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "aspirare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "numeroso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "otto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "rappresentare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "rispondere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "serio",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "popolare",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "responsabile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "grave",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "spazzolare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "mantenere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "uccidere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "verde",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "rammendare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "intero",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "legale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "permettere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "privato",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "macchiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "dolce",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "sgrassare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "cento",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "complesso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "doppio",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "durare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "femminile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "recente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "rosa",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "strano",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "super",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "bravo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "comprare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sciacquare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "interno",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "minimo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "strizzare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "stendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "zero",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "aspettare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "caldo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "caro",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "dedicato",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fondamentale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "piegare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "notare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "indossare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "tecnico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "sbottonare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "americano",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "blu",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "chiuso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "immaginare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "inutile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "risultare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "spiegare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "studiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "allacciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "cinese",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "commerciale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "continuo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "corrente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "disponibile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "elettorale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "slacciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "imparare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "realizzare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "singolo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "veloce",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "affrontare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "contare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "dormire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "misurare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "importare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "inferiore",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "ricamare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scolpire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "aprire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "enorme",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "freddo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "interessare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "regionale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "triste",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "modellare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "morale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "offrire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scritto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "segreto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "incidere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "arrivato",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "affrescare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "costruire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "grosso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "occidentale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "partecipare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "povero",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "intagliare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ridere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "risolvere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "votare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "aumentare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "finito",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "verniciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "minore",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "quarto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "romano",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "top",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "utilizzare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "comunale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "dispiacere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "giapponese",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "sfumare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "salvare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "straniero",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "tedesco",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "apparire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "tratteggiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "capace",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "composto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "digitale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "evidente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "famoso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "migliorare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "nato",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "raccontare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "brutto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "combattere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "controllare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ricco",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "accettare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "aggiungere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "dipendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "incredibile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "disegnare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "positivo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "successivo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "chiudere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "contenere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "divertente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fermo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "passato",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "russo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "spagnolo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "ascoltare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "cominciare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "completo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "costante",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "crescere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "moderno",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "distruggere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "prevedere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sostenere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "classico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "dichiarare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "esserci",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "demolire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sessuale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "tradizionale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "tremolare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "antico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "assoluto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "attivo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "colpire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "dimostrare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "tradurre",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "gestire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "potente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "preferire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "quotidiano",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "ulteriore",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "bere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fisico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fornire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sussurrare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "gentile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "industriale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "mormorare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "toccare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "costringere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "discutere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "esatto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "esclamare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "provenire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "relativo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "sufficiente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "affogare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "avvenire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "dedicare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "differente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "intendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "latino",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "occupare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "organizzare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "proporre",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ridurre",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "specifico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "tranquillo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "emergere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "affondare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "garantire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "greco",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "legare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "ovvio",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "richiedere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scusare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "smettere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "uguale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "vuoto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "condividere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "duro",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "esprimere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fermare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "musicale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "rompere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "arrestare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "comprendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "convincere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "costituzionale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "indipendente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "notevole",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "peggiore",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "penale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "profondo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "gremire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "alternativa",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "ampio",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "cattolico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "difendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "dimenticare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "finto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "ideale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "iniziale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "mandare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "mobile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "reagire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "orientale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "produrre",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "raccogliere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "vendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "cadere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "eleggere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scappare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "fregare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "probabile",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "regolare",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "spaventare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "superare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "sorprendere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "affermare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "elettrico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fantastico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "giurare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "incontrare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "indicare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "legato",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "proteggere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "scientifico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "stretto",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "citare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "correre",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "esterno",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "falso",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "meritare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "stupire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "salire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "adorare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "contento",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "arrangiare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "professionale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "calmare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "assumere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "big",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "carino",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "definire",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "efficace",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "inviare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "registrare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "riconoscere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "rifiutare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "appartenere",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "black",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "comunista",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "familiare",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "fiscale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "giallo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "statale",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "condurre",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "critico",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "firmare",
-    "category": "verbo"
+    "category": "verb"
   },
   {
     "word": "intelligente",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "largo",
-    "category": "aggettivo"
+    "category": "adjective"
   },
   {
     "word": "pesante",
-    "category": "aggettivo"
+    "category": "adjective"
   }
 ]
