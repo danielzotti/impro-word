@@ -9,7 +9,7 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
   title: "Impro Word",
-  description: "A handy app to generate random words for your impro!",
+  description: "A handy tool to generate random words for your impro!",
 };
 
 export default function RootLayout({

@@ -2,7 +2,7 @@ services:
   web:
     build: .
     ports:
-      - "${NEXT_PUBLIC_PORT:-3000}:${NEXT_PUBLIC_PORT:-3000}"
+      - "${NEXT_PUBLIC_PORT:-3023}:${NEXT_PUBLIC_PORT:-3023}"
     environment:
-      - PORT=${NEXT_PUBLIC_PORT:-3000}
+      - PORT=${NEXT_PUBLIC_PORT:-3023}
     restart: always
