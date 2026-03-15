@@ -4,13 +4,6 @@ import { useState, useCallback, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
 import { Languages, RefreshCw, Sparkles } from "lucide-react";
 import itWords from "../../data/it.json";
 import enWords from "../../data/en.json";
@@ -137,21 +130,23 @@ export default function WordGenerator() {
           </select>
         </div>
 
-        <div className="flex-1">
-          <Select value={category} onValueChange={(v) => setCategory(v as Category)}>
-            <SelectTrigger className="bg-white/10 backdrop-blur-md border-white/20 text-white rounded-full">
-              <SelectValue>
-                {CATEGORIES_OPTIONS.find(opt => opt.value === category)?.labels[lang]}
-              </SelectValue>
-            </SelectTrigger>
-            <SelectContent>
+        <div className="flex-1 flex justify-end">
+          <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 p-1 rounded-full px-3">
+            <Sparkles className="w-4 h-4 text-white/70" />
+            <select
+              value={category}
+              onChange={(e) => {
+                setCategory(e.target.value as Category);
+              }}
+              className="bg-transparent text-white text-sm font-medium outline-none cursor-pointer p-1"
+            >
               {CATEGORIES_OPTIONS.map((opt) => (
-                <SelectItem key={opt.value} value={opt.value}>
+                <option key={opt.value} value={opt.value} className="text-black">
                   {opt.labels[lang]}
-                </SelectItem>
+                </option>
               ))}
-            </SelectContent>
-          </Select>
+            </select>
+          </div>
         </div>
       </div>
 

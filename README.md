@@ -1,6 +1,8 @@
 # Impro Word
 
-**Impro Word** is a minimalist, elegant web application designed for improvisers, writers, and creative thinkers. It generates random words in Italian and English, categorized by parts of speech, to spark inspiration and creative exercises.
+**Impro Word** is a minimalist, elegant web application designed for improvisers, writers, and creative thinkers. Handy tool to generate random words for your improv sessions.  
+It is a **Progressive Web App (PWA)**, meaning you can install it on your device and use it **offline**.
+It generates random words in Italian and English, categorized by parts of speech, to spark inspiration and creative exercises.
 
 ## ✨ Features
 
@@ -56,3 +58,10 @@ The project is built with modern, high-performance technologies:
 ---
 
 Developed with ❤️ for the improv and creative community.
+
+## TODO
+
+- [ ] Fix min height (dvh?)
+- [ ] Add screenshots to README
+- [ ] Add timer that resets on each word change
+- [ ] Add more words / languages

@@ -15,6 +15,14 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Impro Word",
   description: "A handy tool to generate random words for your impro!",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "Impro Word",
+  },
+  formatDetection: {
+    telephone: false,
+  },
 };
 
 export default function RootLayout({
