@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Impro Word
 
-## Getting Started
+**Impro Word** is a minimalist, elegant web application designed for improvisers, writers, and creative thinkers. It generates random words in Italian and English, categorized by parts of speech, to spark inspiration and creative exercises.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Bilingual Support**: Toggle between Italian and English word databases.
+- **Category Filtering**: Filter words by **Nouns**, **Verbs**, or **Adjectives**, or explore the **Any** category for random surprises.
+- **Glassmorphism Design**: A premium, modern UI with smooth transitions, gradients, and a sleek dark theme.
+- **Responsive & Interactive**: Fully optimized for mobile and desktop with interactive hover effects and animations using Framer Motion.
+- **Local Persistence**: Remembers your preferred language and category settings across sessions.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Getting Started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Prerequisites
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Node.js 22+
+- npm / yarn / pnpm
 
-## Learn More
+### Installation
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```bash
+   git clone https://github.com/danielzotti/impro-word.git
+   cd impro-word
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. **Install dependencies:**
 
-## Deploy on Vercel
+   ```bash
+   npm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Run the development server:**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   npm run dev
+   ```
+
+4. **Access the app:**
+   Open [http://localhost:3023](http://localhost:3023) in your browser.
+
+## 🛠 Tech Stack
+
+The project is built with modern, high-performance technologies:
+
+- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+- **Animations**: [Framer Motion 12](https://www.framer.com/motion/)
+- **UI Components**: [Base UI](https://base-ui.com/), [Lucide React](https://lucide.dev/), [shadcn/ui](https://ui.shadcn.com/)
+- **Linter/Formatter**: [Biome](https://biomejs.dev/)
+- **Natural Language**: [Compromise](https://github.com/spencermountain/compromise) (for word processing)
+
+---
+
+Developed with ❤️ for the improv and creative community.
