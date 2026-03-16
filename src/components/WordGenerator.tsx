@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import { Languages, RefreshCw, Sparkles } from "lucide-react";
 import itWords from "../../data/it.json";
 import enWords from "../../data/en.json";
+import Image from "next/image";
 
 type Word = {
   word: string;
@@ -114,6 +115,13 @@ export default function WordGenerator() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-[80vh] w-full max-w-md mx-auto p-6 space-y-8">
+      {/* Decor */}
+      <h1 className="flex gap-2 text-white/40 items-center">
+        {/* Add icon */}
+        <Image src="/icon.png" alt="Icon" width={28} height={28} />
+        <span className="text-4xl font-light tracking-widest uppercase italic">Impro Word</span>
+      </h1>
+
       {/* Header / Settings */}
       <div className="w-full flex justify-between items-center gap-4">
         <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 p-1 rounded-full px-3">
@@ -164,7 +172,7 @@ export default function WordGenerator() {
             className="w-full z-10"
           >
             <Card className="w-full h-full aspect-square flex flex-col items-center justify-center text-center bg-white/20 backdrop-blur-xl border-white/30 shadow-2xl rounded-3xl overflow-hidden group">
-              <CardContent className="p-12 flex flex-col items-center">
+              <CardContent className="py-12 px-1 flex flex-col items-center">
                 <motion.span
                   className="text-white/50 text-sm font-medium uppercase tracking-[0.2em] mb-4"
                   initial={{ opacity: 0 }}
@@ -174,7 +182,7 @@ export default function WordGenerator() {
                   {currentWord ? CATEGORY_LABELS[currentWord.category]?.[lang] || currentWord.category : ""}
 
                 </motion.span>
-                <h2 className="text-5xl md:text-6xl font-bold text-white mb-2 drop-shadow-md">
+                <h2 className="text-5xl md:text-6xl font-bold text-white mb-2 drop-shadow-md break-all">
                   {currentWord?.word}
                 </h2>
                 <div className="w-12 h-1 bg-white/30 rounded-full mt-8 group-hover:w-24 transition-all duration-500" />
@@ -197,11 +205,6 @@ export default function WordGenerator() {
         </span>
       </Button>
 
-      {/* Decor */}
-      <div className="flex gap-2 text-white/40 items-center">
-        <Sparkles className="w-4 h-4" />
-        <span className="text-xs font-light tracking-widest uppercase italic">Impro Word</span>
-      </div>
     </div>
   );
 }
