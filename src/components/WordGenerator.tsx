@@ -55,6 +55,19 @@ const TEXTS = {
 
 const STORAGE_KEY = "impro-word-config";
 
+const formatTime = (seconds: number) => {
+  if (seconds < 60) return `${seconds}s`;
+
+  const h = Math.floor(seconds / 3600);
+  const m = Math.floor((seconds % 3600) / 60);
+  const s = seconds % 60;
+
+  if (h > 0) {
+    return `${h}:${m.toString().padStart(2, "0")}:${s.toString().padStart(2, "0")}`;
+  }
+  return `${m}:${s.toString().padStart(2, "0")}`;
+};
+
 export default function WordGenerator() {
   const [isLoaded, setIsLoaded] = useState(false);
   const [lang, setLang] = useState<Language>("it");
@@ -214,9 +227,9 @@ export default function WordGenerator() {
                   {currentWord?.word}
                 </h2>
 
-                <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 p-1 rounded-full px-3">
+                <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 p-1 rounded-full px-3 min-w-24 justify-between">
                   <Timer className="w-4 h-4 text-white/70" />
-                  <span className="text-white text-lg font-medium text-center">{elapsedSeconds}s</span>
+                  <span className="text-white text-lg font-medium text-center font-mono">{formatTime(elapsedSeconds)}</span>
                 </div>
               </CardContent>
             </Card>
