@@ -227,7 +227,7 @@ export default function WordGenerator() {
                   {currentWord?.word}
                 </h2>
 
-                <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 p-1 rounded-full px-3 min-w-24 justify-between">
+                <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 p-1 rounded-full px-3 justify-between">
                   <Timer className="w-4 h-4 text-white/70" />
                   <span className="text-white text-lg font-medium text-center font-mono">{formatTime(elapsedSeconds)}</span>
                 </div>
