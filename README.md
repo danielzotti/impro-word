@@ -4,6 +4,13 @@
 It is a **Progressive Web App (PWA)**, meaning you can install it on your device and use it **offline**.
 It generates random words in Italian and English, categorized by parts of speech, to spark inspiration and creative exercises.
 
+## 📸 Screenshots
+
+| English | Italian |
+| :---: | :---: |
+| ![English Screenshot](public/screenshots/impro-word-english.png) | ![Italian Screenshot](public/screenshots/impro-word-italian.png) |
+
+
 ## ✨ Features
 
 - **Bilingual Support**: Toggle between Italian and English word databases.
@@ -61,7 +68,5 @@ Developed with ❤️ for the improv and creative community.
 
 ## TODO
 
-- [ ] Fix min height (dvh?)
-- [ ] Add screenshots to README
 - [ ] Add timer that resets on each word change
 - [ ] Add more words / languages
