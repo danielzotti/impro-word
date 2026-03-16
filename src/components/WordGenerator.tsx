@@ -4,9 +4,10 @@ import { useState, useCallback, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { Languages, RefreshCw, Sparkles } from "lucide-react";
+import { Languages, RefreshCw, Sparkles, Timer } from "lucide-react";
 import itWords from "../../data/it.json";
 import enWords from "../../data/en.json";
+import esWords from "../../data/es.json";
 import Image from "next/image";
 
 type Word = {
@@ -14,21 +15,21 @@ type Word = {
   category: string;
 };
 
-type Language = "it" | "en";
+type Language = "it" | "en" | "es";
 type Category = "noun" | "verb" | "adjective" | "any";
 
 const CATEGORIES_OPTIONS = [
-  { value: "any", labels: { it: "Tutte le categorie", en: "All Categories" } },
-  { value: "noun", labels: { it: "Sostantivi", en: "Nouns" } },
-  { value: "verb", labels: { it: "Verbi", en: "Verbs" } },
-  { value: "adjective", labels: { it: "Aggettivi", en: "Adjectives" } },
+  { value: "any", labels: { it: "Tutte le categorie", en: "All Categories", es: "Todas las categorías" } },
+  { value: "noun", labels: { it: "Sostantivi", en: "Nouns", es: "Sustantivos" } },
+  { value: "verb", labels: { it: "Verbi", en: "Verbs", es: "Verbos" } },
+  { value: "adjective", labels: { it: "Aggettivi", en: "Adjectives", es: "Adjetivos" } },
 ];
 
 const CATEGORY_LABELS: Record<string, Record<Language, string>> = {
-  noun: { it: "Sostantivi", en: "Nouns" },
-  verb: { it: "Verbi", en: "Verbs" },
-  adjective: { it: "Aggettivi", en: "Adjectives" },
-  any: { it: "Tutte le categorie", en: "All Categories" },
+  noun: { it: "Sostantivi", en: "Nouns", es: "Sustantivos" },
+  verb: { it: "Verbi", en: "Verbs", es: "Verbos" },
+  adjective: { it: "Aggettivi", en: "Adjectives", es: "Adjetivos" },
+  any: { it: "Tutte le categorie", en: "All Categories", es: "Todas las categorías" },
 };
 
 const TEXTS = {
@@ -44,6 +45,12 @@ const TEXTS = {
     category: "Category",
     any: "Any",
   },
+  es: {
+    title: "Palabra Aleatoria",
+    next: "Siguiente Palabra",
+    category: "Categoría",
+    any: "Cualquiera",
+  },
 };
 
 const STORAGE_KEY = "impro-word-config";
@@ -53,8 +60,16 @@ export default function WordGenerator() {
   const [lang, setLang] = useState<Language>("it");
   const [category, setCategory] = useState<Category>("any");
   const [currentWord, setCurrentWord] = useState<Word | null>(null);
+  const [elapsedSeconds, setElapsedSeconds] = useState(0);
 
-  const words = lang === "it" ? itWords : enWords;
+  let words;
+  if (lang === "it") {
+    words = itWords;
+  } else if (lang === "en") {
+    words = enWords;
+  } else {
+    words = esWords;
+  }
 
   // Load from localStorage
   useEffect(() => {
@@ -82,6 +97,17 @@ export default function WordGenerator() {
     }
   }, [lang, category, isLoaded]);
 
+  // Timer logic
+  useEffect(() => {
+    if (!isLoaded || !currentWord) return;
+
+    const timer = setInterval(() => {
+      setElapsedSeconds((prev) => prev + 1);
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, [isLoaded, currentWord]);
+
   const getRandomWord = useCallback(() => {
     let filtered = words as Word[];
     if (category !== "any") {
@@ -98,10 +124,11 @@ export default function WordGenerator() {
     return next;
   }, [words, category, currentWord]);
 
-  const handleNext = () => {
+  const handleNext = useCallback(() => {
     const next = getRandomWord();
     setCurrentWord(next);
-  };
+    setElapsedSeconds(0);
+  }, [getRandomWord]);
 
   // Initial word
   useEffect(() => {
@@ -135,6 +162,7 @@ export default function WordGenerator() {
           >
             <option value="it" className="text-black">Italiano</option>
             <option value="en" className="text-black">English</option>
+            <option value="es" className="text-black">Español</option>
           </select>
         </div>
 
@@ -182,10 +210,14 @@ export default function WordGenerator() {
                   {currentWord ? CATEGORY_LABELS[currentWord.category]?.[lang] || currentWord.category : ""}
 
                 </motion.span>
-                <h2 className="text-5xl md:text-6xl font-bold text-white mb-2 drop-shadow-md break-all">
+                <h2 className="text-5xl md:text-6xl font-bold text-white mb-2 drop-shadow-md break-all mb-8">
                   {currentWord?.word}
                 </h2>
-                <div className="w-12 h-1 bg-white/30 rounded-full mt-8 group-hover:w-24 transition-all duration-500" />
+
+                <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 p-1 rounded-full px-3">
+                  <Timer className="w-4 h-4 text-white/70" />
+                  <span className="text-white text-lg font-medium text-center">{elapsedSeconds}s</span>
+                </div>
               </CardContent>
             </Card>
           </motion.div>
